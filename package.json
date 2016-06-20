@@ -72,9 +72,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davezuko/react-redux-starter-kit.git"
+    "url": "https://github.com/thinker0/aurora-manager.git"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
+  "author": "thinker0 <thinker0@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "babel-cli": "^6.5.1",
@@ -90,6 +90,7 @@
     "babel-runtime": "^6.3.19",
     "better-npm-run": "0.0.8",
     "css-loader": "^0.23.0",
+    "@salesforce-ux/design-system": "~2.0.2",
     "cssnano": "^3.3.2",
     "debug": "^2.2.0",
     "extract-text-webpack-plugin": "^1.0.0",
@@ -149,6 +150,9 @@
     "phantomjs-prebuilt": "^2.1.3",
     "react-addons-test-utils": "^15.0.0",
     "redbox-react": "^1.2.2",
+    "redux-devtools": "^3.3.1",
+    "redux-devtools-dock-monitor": "^1.1.1",
+    "redux-devtools-log-monitor": "^1.0.11",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
     "webpack-dev-middleware": "^1.6.1",
